@@ -4,7 +4,7 @@
 
 # About me
 
-> Knowledge is like the ocean, you can't drink it but you can learn to swim in it.
+> Knowledge is like the ocean, you can't drink all of it but you can learn to swim in it.
 
 😎 I'm a 21 year old who is into computers and wants to create applications. 🖥️
 
