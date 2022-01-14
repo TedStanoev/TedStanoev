@@ -18,7 +18,7 @@
 
 ### :keyboard: Coding languages and frameworks that I use:
 - I am used to coding in C# using ASP.NET Core 🕶️
-- I can feel some kind of attraction towards JavaScript 😄
+- JavaScript
 - Later this year I will study React :electron:
 
  ### 📫 How to reach me:
