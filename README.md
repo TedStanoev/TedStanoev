@@ -9,6 +9,7 @@
 😎 I'm a 21 year old who is into computers and wants to create applications. 🖥️
 
 
+- :man_technologist: Junior Full-Stack Developer @ SoftZen
 - 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# Developer
 - 💼 My future goal is to study business and management in university
 - :desert_island: In my free time, I play football ⚽, table tennis 🏓, swim 🏊 or play video games :video_game:
