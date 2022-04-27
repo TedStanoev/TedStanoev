@@ -18,6 +18,8 @@
 
 ### :keyboard: Coding languages and frameworks that I use:
 - I am used to coding in C# using ASP.NET Core 🕶️
+- Blazor
+- Relational Database
 - JavaScript
 - Later this year I will study React :electron:
 
