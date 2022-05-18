@@ -21,7 +21,7 @@
 - Blazor
 - Relational Database
 - JavaScript
-- Later this year I will study React :electron:
+- React :electron:
 
  ### 📫 How to reach me:
 - You can find me on [LinkedIn](https://www.linkedin.com/in/teodor-stanoev-a14346227/)
