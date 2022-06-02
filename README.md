@@ -14,7 +14,6 @@
 - 💼 My future goal is to study business and management in university
 - :desert_island: In my free time, I play football ⚽, table tennis 🏓, swim 🏊 or play video games :video_game:
 - 🥳 I also love to hang out with friends
-- ⚡ Fun fact: I can make and edit videos
 
 ### :keyboard: Coding languages and frameworks that I use:
 - I am used to coding in C# using ASP.NET Core 🕶️
