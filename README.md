@@ -6,20 +6,21 @@
 
 > Knowledge is like the ocean, you can't drink all of it but you can learn to swim in it.
 
-😎 I'm a 21 year old who is into computers and wants to create applications. 🖥️
-
-
+- 😎 I'm 22 years old
 - :man_technologist: Junior Full-Stack Developer @ SoftZen
-- 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# Developer
+- 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# Developer (Completed)
 - 💼 My future goal is to study business and management in university
-- :desert_island: In my free time, I play football ⚽, table tennis 🏓, swim 🏊 or play video games :video_game:
+- :desert_island: In my free time, I play table tennis 🏓, swim 🏊 or play video games :video_game:
 - 🥳 I also love to hang out with friends
 
 ### :keyboard: Coding languages and frameworks that I use:
-- I am used to coding in C# using ASP.NET Core 🕶️
+- C# is my first language
+- ASP.NET Core 🕶️
 - Blazor
-- Relational Database
-- JavaScript
+- Relational Database (MYSQL, MSSQL)
+- ORM: Entity Framework Core
+- JavaScript and TypeScript
+- NodeJS
 - React :electron:
 
  ### 📫 How to reach me:
