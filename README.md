@@ -14,7 +14,7 @@
 - 🥳 I also love to hang out with friends
 
 ### :keyboard: Coding languages and frameworks that I use:
-- C# is my first language
+- C#
 - ASP.NET Core 🕶️
 - Blazor
 - Relational Database (MYSQL, MSSQL)
@@ -22,6 +22,7 @@
 - JavaScript and TypeScript
 - NodeJS
 - React :electron:
+- GraphQL
 
  ### 📫 How to reach me:
 - You can find me on [LinkedIn](https://www.linkedin.com/in/teodor-stanoev-a14346227/)
