@@ -7,8 +7,8 @@
 > Knowledge is like the ocean, you can't drink all of it but you can learn to swim in it.
 
 - 😎 I'm 22 years old
-- :man_technologist: Junior Full-Stack Developer @ SoftZen
-- 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# Developer (Completed)
+- :man_technologist: Full-Stack Developer @ SoftZen
+- 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# and JS Developer (Completed)
 - 💼 My future goal is to study business and management in university
 - :desert_island: In my free time, I play table tennis 🏓, swim 🏊 or play video games :video_game:
 - 🥳 I also love to hang out with friends
@@ -17,12 +17,12 @@
 - C#
 - ASP.NET Core 🕶️
 - Blazor
-- Relational Database (MYSQL, MSSQL)
-- ORM: Entity Framework Core
+- Relational Database (MYSQL, MSSQL, PostgreSQL)
+- ORM: Entity Framework Core, Sequelize
 - JavaScript and TypeScript
 - NodeJS
 - React :electron:
-- GraphQL
+- GraphQL and Apollo Client
 
  ### 📫 How to reach me:
 - You can find me on [LinkedIn](https://www.linkedin.com/in/teodor-stanoev-a14346227/)
