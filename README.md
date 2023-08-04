@@ -6,7 +6,7 @@
 
 > Knowledge is like the ocean, you can't drink all of it but you can learn to swim in it.
 
-- 😎 I'm 22 years old
+- 😎 I'm 23 years old
 - :man_technologist: Full-Stack Developer @ SoftZen
 - 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# and JS Developer (Completed)
 - 💼 My future goal is to study business and management in university
