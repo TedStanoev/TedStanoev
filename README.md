@@ -9,7 +9,7 @@
 - 😎 I'm 23 years old
 - :man_technologist: Full-Stack Developer @ SoftZen
 - 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# and JS Developer (Completed)
-- 💼 My future goal is to study business and management in university
+- 💼 Currently studying business and economics in university
 - :desert_island: In my free time, I play table tennis 🏓, swim 🏊 or play video games :video_game:
 - 🥳 I also love to hang out with friends
 
