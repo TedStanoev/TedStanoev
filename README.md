@@ -18,7 +18,7 @@
 - ASP.NET Core 🕶️
 - Blazor
 - Relational Database (MYSQL, MSSQL, PostgreSQL)
-- ORM: Entity Framework Core, Sequelize
+- ORM: Entity Framework Core, Sequelize, Prisma
 - JavaScript and TypeScript
 - NodeJS
 - React :electron:
