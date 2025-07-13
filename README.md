@@ -11,7 +11,7 @@
 - :man_student: Currently studying business and economics in university
 - 🔭 I’m working on **Personal & Work projects**
 - 🌱 I’m learning **Jenkins, Docker, Unity**
-- :bulb: I'm also interested in AI development
+- :bulb: I'm also interested in AI
 - :desert_island: In my free time, I play table tennis 🏓, swim 🏊 and party 🥳
 - 📫 Reach me at: **tedstanoev@gmail.com**
 
