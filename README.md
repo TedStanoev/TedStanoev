@@ -4,14 +4,12 @@
 
 # About me
 
-- 😎 I'm 24 years old
-- :man_technologist: Full-Stack Web and Mobile Developer
-- 💼 Currently employed at Softzen
+- 😎 I'm 25 years old
+- :man_technologist: Frontend Developer
+- 💼 Currently employed at Pateplay
 - 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# and JS Developer (Completed)
 - :man_student: Currently studying business and economics in university
 - 🔭 I’m working on **Personal & Work projects**
-- 🌱 I’m learning **Jenkins, Docker, Unity**
-- :bulb: I'm also interested in AI
 - :desert_island: In my free time, I play table tennis 🏓, swim 🏊 and party 🥳
 - 📫 Reach me at: **tedstanoev@gmail.com**
 
