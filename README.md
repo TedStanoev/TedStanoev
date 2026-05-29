@@ -5,9 +5,9 @@
 # About me
 
 - 😎 I'm 25 years old
-- :man_technologist: Frontend Developer
+- :man_technologist: Fullstack Developer
 - 💼 Currently employed at Pateplay
-- 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# and JS Developer (Completed)
+- 🎯 Adapting AI to my workflow for speed
 - :man_student: Currently studying business and economics in university
 - 🔭 I’m working on **Personal & Work projects**
 - :desert_island: In my free time, I play table tennis 🏓, swim 🏊 and party 🥳
